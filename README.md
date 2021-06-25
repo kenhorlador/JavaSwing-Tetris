@@ -1,7 +1,7 @@
 # <strong>Tetris-Game</strong>
 A Simple GUI Game Project Implementing Multithreading , Object-oriented Programming and Swing.
 
-<img src="https://github.com/kenhorlador/JavaSwing-Tetris/blob/main/img/tetris.png" alt="Tetris image" width="300" height="540">
+<img href="https://github.com/kenhorlador/JavaSwing-Tetris/blob/main/img/tetris.png" alt="Tetris image" width="300" height="540">
 <hr>
 
 There are three ways you can drag it down into your local system:
@@ -14,11 +14,11 @@ There are three ways you can drag it down into your local system:
 ### <strong>A. Direct Download: </strong>
 1. Click the "Code" button upper-right corner of the remote repository.
 <br>
-<img src="https://github.com/kenhorlador/JavaSwing-Tetris/blob/main/img/code.png" alt="Code Button">
+<img href="https://github.com/kenhorlador/JavaSwing-Tetris/blob/main/img/code.png" alt="Code Button">
 <br>
 2. And lastly, click "Download Zip"
 <br>
-<img src="https://github.com/kenhorlador/JavaSwing-Tetris/blob/main/img/download-zip.png" alt="Download Zip">
+<img href="https://github.com/kenhorlador/JavaSwing-Tetris/blob/main/img/download-zip.png" alt="Download Zip">
 <br>
 <br>
 
@@ -44,7 +44,7 @@ There are three ways you can drag it down into your local system:
 <br>
 Head to the upper-right corner of the browser's window just below your Github profile picture and click "Fork".
 <br>
-<img src="https://github.com/kenhorlador/JavaSwing-Tetris/blob/main/img/fork.png" alt="Fork"> 
+<img href="https://github.com/kenhorlador/JavaSwing-Tetris/blob/main/img/fork.png" alt="Fork"> 
 <br>
 
 *These will make a remote copy of the repository in your own account and then you can now clone it down into your system by following the second process (Cloning)* 
@@ -58,14 +58,13 @@ Head to the upper-right corner of the browser's window just below your Github pr
 <hr>
 
 ### Inspiration
-[Rosetta Code]("https://rosettacode.org/wiki/Tetris/Java")
+\> [Rosetta Code](https://rosettacode.org/wiki/Tetris/Java)
 
 <br>
 
 ### Contributors
-<ul>
-    <li><a src="https://www.facebook.com/enialion">Mary Noilaine Barandon</a></li>
-    <li><a src="https://www.facebook.com/mack.flores.583">Mack Lorence Flores</a></li>
-    <li><a src="https://www.facebook.com/ken.horlador">Ken Horlador</a></li>
-    <li><a src="https://www.facebook.com/mayaaaaaaa.8">Jeremiah Tormes</a></li>
-</ul>
+- [Mary Noilaine Barandon](https://www.facebook.com/enialion)
+- [Mack Lorence Flores](https://www.facebook.com/mack.flores.583)
+- [Ken Horlador](https://www.facebook.com/ken.horlador)
+- [Jeremiah Tormes](https://www.facebook.com/mayaaaaaaa.8)
+
