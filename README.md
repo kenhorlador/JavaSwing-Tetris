@@ -27,17 +27,17 @@ There are three ways you can drag it down into your local system:
 ### <strong>B. Cloning: </strong>
 1. You may clone it using git bash
     ```bash
-    git clone git@github.com:kenhorlador/JavaSwing-Tetris.git
+   $ git clone https://github.com/kenhorlador/JavaSwing-Tetris.git
     ```
 
 2. In addition, you should cd into the folder by:
     ```bash
-    cd JavaSwing-Tetris
+   $ cd JavaSwing-Tetris
     ```
 
 3. Remove the remote (in order not to accidentally make some commits)
     ```bash
-    git remote rm origin
+   $ git remote rm origin
     ```
 
 ### <strong>C. Forking: </strong>
